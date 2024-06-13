@@ -69,9 +69,10 @@ a,i{
 }
 
 #navbar a{
-    width: 120px;
+    width: 100px;
     color: #444;
     text-align: center;
+    padding: 0px;
    
 
 }
@@ -100,6 +101,7 @@ a,i{
 #gallery-container h1{
     text-align: center;
     color:#595445;
+    margin-top: 60px;
 }
 
 #gallery-container h1,.col-md-6,.col-12{
@@ -129,4 +131,33 @@ a,i{
 }
 #img7{
     background-image: url(imagens/pokerdogs.jpg);
+}
+
+/* FOOTER */
+footer{
+    border-top: 1px solid #25282e;
+    height:300px;
+    padding: 30px;
+}
+#social-icons-container{
+    padding: 20px;
+    margin: 20px;
+}
+#social-icons-container div{
+    text-align: center;
+    margin: 0px 20px;
+}
+
+footer p{
+    text-align: center;
+    margin: 30px;
+}
+
+footer i{
+    font-size: 20px;
+   
+}
+
+footer i:hover{
+    color: #c1b696;
 }
