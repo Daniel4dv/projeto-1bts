@@ -1,2 +1,2 @@
-# Projeto-1bts
- Primeiro projeto curso de bootstrap
+# Projeto Arts
+ Projeto de web site de exibição de artes com bootstrap
